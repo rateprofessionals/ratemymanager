@@ -1,1 +1,1 @@
-# ratemymanager
+# Rate My Manager
